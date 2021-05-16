@@ -13,7 +13,7 @@
  
 - As a result, while the results showed that DQ traded 107, 873,900 shared in 2018, we noticed that Daqo dropped over 63% (62.6 % to be precise) in 2018. Which was clear that AQ is not the best option to invest in. That's why we did perform our analysis by looping through all the stocks and analysing the total volume and return for both 2017 and 2018 year. 
 
- -  the related screenshots can be found here: ![Screenshots](https://github.com/ilaha/stock_analysis/tree/main/Resources "Resources/screenshots")
+ -  the related screenshots can be found here: [Screenshots](https://github.com/ilaha/stock_analysis/tree/main/Resources)
 
 
 ## Summary
